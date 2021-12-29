@@ -1,5 +1,11 @@
 @import url(fontawesome-all.min.css);
 
+/*
+	Fractal by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+*/
+
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -2749,14 +2755,13 @@ input, select, textarea {
 
 		.spotlight .image {
 			width: 30%;
-			border-radius: 100%;
 			margin: 0 3em 0 0;
 			display: block;
 		}
 
 			.spotlight .image img {
 				display: block;
-				border-radius: 100%;
+				border-radius: 0%;
 				width: 100%;
 			}
 
@@ -3605,7 +3610,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #349b0bbb;
+		background-color: #4696e5;
 		color: #d1e5f9;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
